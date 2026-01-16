@@ -24,10 +24,11 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** C, C++, Python, SQL, Java (basic)  
-- **Web Development:** HTML5, CSS3, JavaScript (basic), Flask, REST APIs  
-- **AI/ML Tools:** Langflow, Langfuse, LLMs (Qwen/Mistral), RAG, NLP, Prompt Engineering  
-- **Core CS:** Data Structures, OOPS, OS, DBMS, CN, Agile, SDLC, Unit Testing  
+- Programming Languages and Databases: C, C++, Python, SQL, Java (Basic) ), PostgreSQL
+- Web Development & Visualization: HTML5, CSS3, JavaScript (Basic), Flask, Responsive Design, REST APIs, Git/GitHub, Power BI
+- AI & ML Tools: Langflow, Langfuse, Prompt Engineering, Multi-Agent Systems, LLMs (Qwen, Mistral), RAG, NLP
+- Core CS Concepts: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOPs), Operating Systems, DBMS, Computer
+Networks, Agile Methodologies, SDLC, Unit Testing 
  
 
 ---
