@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_India-0d1117?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%87%AE%F0%9F%87%B3_Based_in_India-7B61FF?style=for-the-badge&logoColor=white&labelColor=0d1117" />
 
 <br/><br/>
 
@@ -31,11 +31,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Yash19Singhal&style=for-the-badge&color=7B61FF&label=PROFILE+VIEWS" />
-&nbsp;
 <img src="https://img.shields.io/github/followers/Yash19Singhal?style=for-the-badge&color=4B0082&labelColor=0d1117&logo=github&label=Followers" />
-&nbsp;
-<img src="https://img.shields.io/github/stars/Yash19Singhal?style=for-the-badge&color=6C3FC5&labelColor=0d1117&logo=github&label=Stars" />
 
 </div>
 
@@ -126,7 +122,7 @@ My engineering philosophy centers on three principles: **performance-first desig
 | **Performance** | Sub-millisecond nearest neighbor queries across 3 index types |
 | **Architecture** | 7 REST endpoints via custom C++ HTTP server — zero external DB dependencies |
 | **Impact** | Full RAG pipeline: Ollama chunking → HNSW retrieval → LLM-powered answers |
-| **Repository** | [![GitHub](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Yash19Singhal) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Yash19Singhal/OwnAI-Vector-Database-Engine) |
 
 </div>
 
@@ -150,7 +146,7 @@ Built a complete vector database engine from the ground up in C++17 with zero ex
 | **Performance** | 4-stage multi-threaded pipeline with consistent 5-tuple hashing |
 | **Security** | TLS SNI extraction for encrypted traffic classification; configurable blocking rules |
 | **Impact** | Classified traffic across 10+ application types with zero packet loss |
-| **Repository** | [![GitHub](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Yash19Singhal) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Yash19Singhal/Deep-Packet-Inspection-Engine) |
 
 </div>
 
@@ -174,7 +170,7 @@ Engineered a high-throughput deep packet inspection system in C++17 that process
 | **Performance** | Real-time AI anomaly detection via Z-score analysis across 30+ days of financial data |
 | **Security** | JWT + Google OAuth 2.0 dual authentication; SQL injection–proof parameterized queries |
 | **Impact** | Automated 80%+ budget threshold email alerts via Nodemailer |
-| **Repository** | [![GitHub](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Yash19Singhal) &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-7B61FF?style=flat-square&logo=vercel&logoColor=white)](https://fj-be-r2-yashsinghal-vitvellore-h9q3.onrender.com/) |
+| **Repository** | [![GitHub](https://img.shields.io/badge/Source_Code-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Yash19Singhal/Personal-Finance-Tracker) &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-7B61FF?style=flat-square&logo=render&logoColor=white)](https://fj-be-r2-yashsinghal-vitvellore-h9q3.onrender.com/) |
 
 </div>
 
@@ -291,56 +287,7 @@ Built a full-stack personal finance management backend with enterprise-grade sec
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Yash19Singhal&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF&text_color=c9d1d9&ring_color=7B61FF&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Yash19Singhal&hide_border=true&background=0d1117&ring=7B61FF&fire=7B61FF&currStreakLabel=7B61FF&sideLabels=c9d1d9&dates=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9" width="49%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash19Singhal&layout=compact&hide_border=true&bg_color=0d1117&title_color=7B61FF&text_color=c9d1d9&langs_count=10" width="42%" />
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" width="28" /> &nbsp;GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yash19Singhal&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" /> &nbsp;Contribution Activity
-
-<div align="center">
-
-[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash19Singhal&bg_color=0d1117&color=7B61FF&line=7B61FF&point=ffffff&area=true&area_color=4B0082&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="28" /> &nbsp;Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash19Singhal/Yash19Singhal/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash19Singhal/Yash19Singhal/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Yash19Singhal/Yash19Singhal/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" width="28" /> &nbsp;Current Focus
+## 🎯 &nbsp;Current Focus
 
 ```yaml
 Learning:
@@ -401,4 +348,3 @@ Open To:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer)
 
 </div>
-
