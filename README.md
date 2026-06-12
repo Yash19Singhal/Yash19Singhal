@@ -34,7 +34,8 @@ Networks, Agile Methodologies, SDLC, Unit Testing
 ---
 
 ## 📜 Certifications  
-- **HTML, CSS, JavaScript for Web Developers** – Johns Hopkins University  
+- **HTML, CSS, JavaScript for Web Developers** – Johns Hopkins University
+- **Generative AI with Large Language Models**    
 
 ---
 
