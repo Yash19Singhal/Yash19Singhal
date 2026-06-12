@@ -31,8 +31,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/Yash19Singhal?style=for-the-badge&color=4B0082&labelColor=0d1117&logo=github&label=Followers" />
-
 </div>
 
 ---
