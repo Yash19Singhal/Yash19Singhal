@@ -21,6 +21,9 @@
 <a href="https://portfolio-6kez.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit_Now-7B61FF?style=for-the-badge&labelColor=0d1117" />
 </a>
+<a href="https://edith-eta-self.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Portfolio_Bot-Chat_with_Edith-9B59B6?style=for-the-badge&labelColor=0d1117" />
+</a>
 <a href="https://www.linkedin.com/in/yashsinghal1909/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
@@ -475,6 +478,10 @@ availability: "Actively open to impactful opportunities"
 &nbsp;
 <a href="https://portfolio-6kez.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-Visit_Now-7B61FF?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://edith-eta-self.vercel.app/">
+  <img src="https://img.shields.io/badge/%F0%9F%A4%96_Portfolio_Bot-Chat_with_Edith-9B59B6?style=for-the-badge&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
